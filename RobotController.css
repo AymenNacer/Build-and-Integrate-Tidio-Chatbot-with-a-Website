@@ -1,0 +1,68 @@
+body{
+background-color: #00394C; 
+}
+
+.Style{
+
+background-color: #2a9df4;
+
+}
+
+.Style:hover{
+
+background-color: #2a9df4;
+
+}
+
+
+		button 
+		{
+		margin:20px;
+		width: 100px ; 
+		height: 40px;
+		text-align: center;
+		padding: 10px;
+		}
+
+		
+		#Forwards
+		{
+		position:absolute;
+	     left: 500px;
+	     top: 240px;
+		
+
+		}
+		
+		#Backwards
+		{
+		position:absolute;
+		top:340px;
+		left:500px;
+	
+		}
+		
+		#Right
+		{
+		position:absolute;
+		top:290px;
+		left:610px;
+		}
+		
+		#Left
+		{
+		position:absolute;
+		top:290px;
+		left:390px;
+		}
+		
+		#Stop
+		{
+			background-color: #D91000;
+		position:absolute;
+		top:290px;
+		left:500px;
+		}
+
+
+
