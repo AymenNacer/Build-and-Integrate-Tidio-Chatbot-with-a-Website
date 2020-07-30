@@ -11,7 +11,7 @@ preview of the chatbot:
 
 ![preview](https://user-images.githubusercontent.com/67188835/88934465-53698c00-d289-11ea-9b14-aa00ab496078.gif)
 
-preview of how live works:
+preview of how live chat works:
 
 ![live](https://user-images.githubusercontent.com/67188835/88934561-71cf8780-d289-11ea-9df0-1ffd5d2db5e0.gif)
 
