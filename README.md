@@ -1,5 +1,5 @@
 # Build-and-Integrate-Tidio-Chatbot-with-a-Website
-I build a simple Tidio chatbot that asks for issues that the user is facing, and showed how Tidio live chat works
+(Smart Methods Internship) I build a simple Tidio chatbot that asks for issues that the user is facing, and showed how Tidio live chat works
 
 The website used is in this repo : https://github.com/AymenNacer/Real-time-Manual-Robot-Controller-
 
